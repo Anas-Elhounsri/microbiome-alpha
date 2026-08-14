@@ -1,0 +1,29 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "microbiome-alpha",
+  "version": "0.2.0",
+  "description": "Diversity and differential-abundance helpers for 16S amplicon tables.",
+  "codeRepository": "github.com:Anas-Elhounsri/microbiome-alpha.git",
+  "readme": "https://github.com/Anas-Elhounsri/microbiome-alpha/blob/main/README.md",
+  "license": "GPL",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python 3.10"
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sofia",
+      "familyName": "Ahmadi",
+      "email": "sofia.ahmadi@example.org"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Peter",
+      "familyName": "Novak",
+      "email": "peter.novak@example.org"
+    }
+  ],
+  "dateModified": "2026-10-29"
+}
